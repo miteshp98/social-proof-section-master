@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://github.com/miteshp98/social-proof-section-master)
+- Live Site URL: [live site URL](https://miteshp98.github.io/social-proof-section-master/)
 
 ## My process
 

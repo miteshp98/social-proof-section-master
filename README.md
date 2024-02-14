@@ -2,6 +2,8 @@
 
 This is a solution to the [Social proof section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
+![mobile (2)](https://github.com/miteshp98/social-proof-section-master/assets/145320555/def230ce-5c1b-4722-8bb3-3420f90ccb0a)
+
 ## Table of contents
 
 - [Overview](#overview)
@@ -26,8 +28,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![htmlcode](https://github.com/miteshp98/social-proof-section-master/assets/145320555/15e590af-8b9f-4837-8c1d-687ae994934b)
 
+![csscode](https://github.com/miteshp98/social-proof-section-master/assets/145320555/17c89cb3-13d9-463f-a418-1f880e33abdf)
 
 ### Links
 
